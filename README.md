@@ -79,19 +79,6 @@ I build practical technology solutions across web development, AI, and cybersecu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxiv-karatz&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxiv-karatz&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxiv-karatz&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p>
